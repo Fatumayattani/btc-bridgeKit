@@ -68,7 +68,7 @@ Create an NFT marketplace that allows users to purchase and sell NFTs using Bitc
 
 To start using BTC-BridgeKit, simply import it into your ICP project. The toolkit is designed to be easy to integrate into your existing project structure.
 
-For detailed installation and usage instructions, please refer to the [documentation](#).
+Detailed installation and usage instructions coming soon!!
 
 ---
 
